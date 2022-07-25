@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://alex-tavares.github.io/csb-pcvi9t/static/js/main.c01c15fe.chunk.js",
+    "main.js.map": "https://alex-tavares.github.io/csb-pcvi9t/static/js/main.c01c15fe.chunk.js.map",
+    "runtime-main.js": "https://alex-tavares.github.io/csb-pcvi9t/static/js/runtime-main.07380cc0.js",
+    "runtime-main.js.map": "https://alex-tavares.github.io/csb-pcvi9t/static/js/runtime-main.07380cc0.js.map",
+    "static/js/2.6e846d15.chunk.js": "https://alex-tavares.github.io/csb-pcvi9t/static/js/2.6e846d15.chunk.js",
+    "static/js/2.6e846d15.chunk.js.map": "https://alex-tavares.github.io/csb-pcvi9t/static/js/2.6e846d15.chunk.js.map",
+    "index.html": "https://alex-tavares.github.io/csb-pcvi9t/index.html",
+    "static/js/2.6e846d15.chunk.js.LICENSE.txt": "https://alex-tavares.github.io/csb-pcvi9t/static/js/2.6e846d15.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07380cc0.js",
+    "static/js/2.6e846d15.chunk.js",
+    "static/js/main.c01c15fe.chunk.js"
+  ]
+}
